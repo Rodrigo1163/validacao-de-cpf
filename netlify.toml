@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "validacaoCPF.html"
+status = 200
